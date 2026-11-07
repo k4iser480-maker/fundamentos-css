@@ -1,0 +1,22 @@
+/* selector por etiqueta */ 
+h1 {
+    color: blue;
+    font-size: 60px;
+}
+
+header p {
+    color: red;
+    font-size: 20px;
+}
+
+/* selector por clase */
+.texto {
+    color: green;
+    font-size: 30px;
+}
+
+/* selector por id */
+#subtitulo-h2 {
+    color: purple;
+    font-size: 40px;
+}
